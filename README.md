@@ -92,7 +92,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **BitcoinBlazer23**
 - Website: nft-alts.crypto
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@cryptosneakerhead23-max](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
